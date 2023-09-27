@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>(☞ﾟヮﾟ)☞Зло пожаловать☜(ﾟヮﾟ☜)</h1>
+  <h1>(☞ﾟヮﾟ)☞Добро пожаловать☜(ﾟヮﾟ☜)</h1>
 </div>
 Мне хотелось бы изучить такие языки программирования как:<p>
   •Python<p>
@@ -8,6 +8,7 @@
   •JavaScript<p>
   На данный момент в совершенстве знаю все вышеперечисленные языки программирования<p>
   https://docs.google.com/document/d/1Ck5DZ3ymr9W-zEKxHwsok55TKhPjojSru7Y-gDcZLGw/edit?usp=sharing
+    https://freelance.habr.com/freelancers/Vadim_Zayats
 CSS
 background
 background-repeat
