@@ -7,9 +7,9 @@
   •CSS<p>
   •JavaScript<p>
   На данный момент поверхностно знаю все вышеперечисленные языки программирования<p>
-  https://docs.google.com/document/d/1Ck5DZ3ymr9W-zEKxHwsok55TKhPjojSru7Y-gDcZLGw/edit?usp=sharing
-    https://freelance.habr.com/freelancers/Vadim_Zayats
-    https://replit.com/@vadikzaytsev201
+  https://docs.google.com/document/d/1Ck5DZ3ymr9W-zEKxHwsok55TKhPjojSru7Y-gDcZLGw/edit?usp=sharing<p>
+    https://freelance.habr.com/freelancers/Vadim_Zayats<p>
+    https://replit.com/@vadikzaytsev201<p>
 CSS
 background
 background-repeat
