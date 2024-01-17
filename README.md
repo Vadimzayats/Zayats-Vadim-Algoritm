@@ -10,6 +10,7 @@
   https://docs.google.com/document/d/1Ck5DZ3ymr9W-zEKxHwsok55TKhPjojSru7Y-gDcZLGw/edit?usp=sharing<p>
     https://freelance.habr.com/freelancers/Vadim_Zayats<p>
     https://replit.com/@vadikzaytsev201<p>
+    https://drive.google.com/drive/folders/1IqeOgBZEDCBEHlLPsI4LbUBa_d3Zgg4u?usp=sharing<p>
 CSS
 background
 background-repeat
